@@ -117,3 +117,9 @@ console.log(add(2, 3));
 
 
 > "Design is not just what it looks like and feels like. Design is how it works." – Steve Jobs
+<br>
+
+## Dokumentacija
+
+- [LICENSE.md](LICENSE.md)
+- [CHANGELOG.md](CHANGELOG.md)
