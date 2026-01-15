@@ -87,7 +87,7 @@ User research is the systematic study of target users and their requirements in 
 
 **Izvor teksta:**
 - https://en.wikipedia.org/wiki/User_experience_design
-
+<br>
 
 
 
