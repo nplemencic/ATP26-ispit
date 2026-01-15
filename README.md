@@ -64,3 +64,22 @@ Once a solid and stable framework is established, wireframes are translated from
 
 ### User research
 User research is the systematic study of target users and their requirements in order to add realistic contexts and insights to the design process. It commonly involves methods such as interviews, surveys, field studies, and contextual inquiry. The data gathered from user research helps designers understand user goals, behaviors, and pain points, which in turn informs design decisions throughout the product lifecycle. By grounding design choices in evidence rather than assumptions, user research reduces the risk of creating products that fail to meet user needs. It also supports the creation of user personas and scenarios, which help maintain a user-centered focus during design and development.
+
+
+![UX Design](https://images.pexels.com/photos/3184639/pexels-photo-3184639.jpeg)
+![User Research](https://images.pexels.com/photos/3861964/pexels-photo-3861964.jpeg)
+![Wireframing](https://images.pexels.com/photos/6476584/pexels-photo-6476584.jpeg)
+
+```javascript
+function greet(name) {
+  return `Hello, ${name}!`;
+}
+console.log(greet("Nikola"));
+
+**Izvori slika:**
+- https://www.pexels.com/photo/people-working-in-front-of-computer-3184639/
+- https://www.pexels.com/photo/woman-holding-pen-3861964/
+- https://www.pexels.com/photo/person-writing-on-a-notebook-6476584/
+
+**Izvor teksta:**
+- https://en.wikipedia.org/wiki/User_experience_design
