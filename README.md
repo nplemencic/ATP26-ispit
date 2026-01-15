@@ -74,7 +74,12 @@ User research is the systematic study of target users and their requirements in 
 
 
 
+function add(a, b) {
+  return a + b;
+}
 
+console.log(add(2, 3));
+<br>
 
 
 
