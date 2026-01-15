@@ -87,3 +87,15 @@ User research is the systematic study of target users and their requirements in 
 
 **Izvor teksta:**
 - https://en.wikipedia.org/wiki/User_experience_design
+
+
+- UX Research
+- Wireframing
+- Prototyping
+- User Testing
+
+
+1. Definiranje ciljeva
+2. Istraživanje korisnika
+3. Izrada prototipa
+4. Testiranje i iteracija
