@@ -102,3 +102,13 @@ User research is the systematic study of target users and their requirements in 
 2. Istraživanje korisnika
 3. Izrada prototipa
 4. Testiranje i iteracija
+
+
+
+| Naziv projekta | Verzija | Autor  | Datum       | Tehnologije            |
+|----------------|---------|--------|-------------|-------------------------|
+| ATP26 Ispit    | 1.0     | Nikola | 2026-01-15  | Markdown, Git, GitHub  |
+
+
+
+> "Design is not just what it looks like and feels like. Design is how it works." – Steve Jobs
